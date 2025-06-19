@@ -1,4 +1,3 @@
-#app
 FROM 739848226362.dkr.ecr.ap-south-1.amazonaws.com/backend-node:latest
 
 WORKDIR /usr/src/app
